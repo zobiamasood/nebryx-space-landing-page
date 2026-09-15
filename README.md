@@ -1,16 +1,114 @@
-# React + Vite
+# Nebryx Space Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, space-inspired landing page designed for **Nebryx Solution**, featuring immersive animations, parallax effects, and a futuristic visual experience.
 
-Currently, two official plugins are available:
+## ✦ Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Live Website](https://nebryx-solution.netlify.app/)
 
-## React Compiler
+## ✦ About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Nebryx Space Landing Page is a creative frontend project built around a futuristic space concept.
 
-## Expanding the ESLint configuration
+The website combines a clean landing page structure with **scroll-based animations, parallax effects, smooth transitions, and interactive visual elements** to create an immersive browsing experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The visual direction was inspired by modern creative websites, particularly their use of motion and interactive storytelling, while the implementation and overall page composition were developed specifically for this project.
+
+## ✦ Features
+
+* Futuristic space-themed UI
+* Fully responsive design
+* Scroll-based animations
+* Parallax scrolling effects
+* Smooth transitions and visual interactions
+* Interactive hover effects
+* Modern typography and visual hierarchy
+* Immersive space-inspired visuals
+* Responsive experience across different screen sizes
+* Deployed on Netlify
+
+## ✦ Tech Stack
+
+* HTML5
+* JavaScript
+* Tailwind CSS
+* Responsive Web Design
+* CSS Animations & Transitions
+* Parallax Effects
+
+## ✦ Animation & Interaction
+
+The landing page focuses on motion and visual storytelling to create a dynamic browsing experience.
+
+Implemented interactions include:
+
+* Scroll-triggered animations
+* Parallax movement
+* Smooth section transitions
+* Animated visual elements
+* Hover interactions
+* Layered space-themed effects
+
+## ✦ Project Structure
+
+```text
+nebryx-space-landing-page/
+│
+├── assets/
+├── index.html
+├── src/
+├── package.json
+└── README.md
+```
+
+## ✦ Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/zobiamasood/nebryx-space-landing-page.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## ✦ Deployment
+
+The website is deployed on **Netlify**.
+
+**Live Website:**
+https://nebryx-solution.netlify.app/
+
+## ✦ Inspiration
+
+This project was inspired by modern creative web experiences and their use of **animation, parallax, and interactive visual storytelling**.
+
+The inspiration served as a reference for exploring animation and interaction ideas, while the implementation and design were customized for the Nebryx Solution concept.
+
+## ✦ What I Explored
+
+Through this project, I explored:
+
+* Building immersive landing page experiences
+* Working with Tailwind CSS
+* Creating scroll-based animations
+* Implementing parallax effects
+* Combining motion with responsive layouts
+* Improving visual hierarchy through animation
+* Creating a futuristic UI while maintaining usability
+
+## ✦ Author
+
+**Zobia Masood**
+
+
+*Designed and developed with a focus on creative frontend development, animation, and meaningful digital experiences.*
